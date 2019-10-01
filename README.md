@@ -1,2 +1,0 @@
-# random
-Random generators C++
