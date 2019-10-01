@@ -1,3 +1,4 @@
+//
 #pragma once
 const int size = 10000;
 const int m = 1234561;
